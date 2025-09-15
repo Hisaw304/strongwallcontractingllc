@@ -9,7 +9,7 @@ import ServicesSection from "../components/ServicesSection.jsx";
 import StormDamageSection from "../components/StormDamageSection.jsx";
 import TestimonialSection from "../components/TestimonialsSection.jsx";
 import Contact from "../components/Contact.jsx";
-// import Watermark from "../components/Watermark.jsx";
+import Watermark from "../components/Watermark.jsx";
 
 const Home = () => {
   return (
@@ -24,7 +24,7 @@ const Home = () => {
       <StormDamageSection />
       <TestimonialSection />
       <Contact />
-      {/* <Watermark /> */}
+      <Watermark />
     </div>
   );
 };

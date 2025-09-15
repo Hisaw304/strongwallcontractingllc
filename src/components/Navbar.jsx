@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="bg-yellow-500 text-black text-sm px-6 py-2 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-0 text-center sm:text-left">
         <span>Email: info@andreaconstructionservices.com</span>
         <span>Andrea Richard</span>
-        <span>Call: (555) 123-4567</span>
+        <span>Call: +1 (561) 973-6301</span>
       </div>
 
       {/* Main Nav */}

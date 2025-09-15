@@ -104,7 +104,7 @@ const Contact = () => {
               West Palm Beach, FL 33412
             </p>
             <p className="text-gray-700">
-              <span className="font-semibold">Phone:</span> (555) 987-6543
+              <span className="font-semibold">Phone:</span> +1 (561) 973-6301
             </p>
             <p className="text-gray-700">
               <span className="font-semibold">Email:</span>{" "}

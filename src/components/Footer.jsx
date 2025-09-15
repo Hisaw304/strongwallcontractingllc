@@ -22,7 +22,7 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold text-white mb-3">Contact</h3>
           <p>📍 12334 77th Place North, West Palm Beach, FL 33412</p>
-          <p>📞 (555) 987-6543</p>
+          <p>📞 +1 (561) 973-6301</p>
           <p>✉️ info@andreaconstructionservices.com</p>
         </div>
 

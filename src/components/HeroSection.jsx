@@ -6,7 +6,7 @@ const HeroSection = () => {
       id="hero"
       className="relative bg-gray-900 text-white h-[90vh] flex items-center"
       style={{
-        backgroundImage: "url('/house10.jpg')", // 👈 your image in public/
+        backgroundImage: "url('/house101.jpg')", // 👈 your image in public/
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

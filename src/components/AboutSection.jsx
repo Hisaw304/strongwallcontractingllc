@@ -8,7 +8,7 @@ const AboutSection = () => {
         <div className="w-full md:w-1/2">
           <img
             src="/about.webp" // 👈 your image in public folder
-            alt="Strong Wall Construction"
+            alt="Andrea Construction Inc."
             className="rounded-2xl shadow-lg w-full object-cover"
           />
         </div>
@@ -16,21 +16,22 @@ const AboutSection = () => {
         {/* Text */}
         <div className="w-full md:w-1/2">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">
-            Strong Walls, Stronger Homes
+            Building Homes, Building Trust
           </h2>
           <p className="text-gray-600 mb-4 leading-relaxed">
-            At{" "}
-            <span className="font-semibold">Strong Wall Construction LLC</span>,
-            we specialize in exterior remodeling that brings lasting beauty and
-            strength to your home. From siding upgrades to roofing, windows, and
-            custom outdoor spaces, our skilled team transforms your vision into
-            reality—anywhere in the USA.
+            At <span className="font-semibold">Andrea Construction Inc.</span>,
+            we bring craftsmanship, reliability, and innovation to every
+            project. From roofing and siding upgrades to windows and custom
+            outdoor spaces, our team is dedicated to enhancing the beauty,
+            durability, and value of your home—anywhere across the United
+            States.
           </p>
           <p className="text-gray-600 leading-relaxed">
-            Your home is more than just a structure—it’s where life happens.
-            That’s why we listen closely, plan carefully, and build with
-            precision. Whether you need a fresh new look or a complete remodel,
-            we are your trusted partner in creating a home you’ll love.
+            We understand that your home is more than just walls—it’s where your
+            life unfolds. That’s why we take the time to listen, plan with care,
+            and deliver with precision. Whether you’re looking for a modern
+            refresh or a full-scale remodel, Andrea Construction Inc. is your
+            trusted partner in creating a home that truly reflects your vision.
           </p>
         </div>
       </div>

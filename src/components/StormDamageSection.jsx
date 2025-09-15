@@ -12,26 +12,25 @@ const StormDamageSection = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-6 max-w-4xl text-center">
         <h2 className="text-3xl md:text-5xl font-bold mb-6">
-          HAVE YOU EXPERIENCED STORM DAMAGE?
+          Has Your Home Suffered Storm Damage?
         </h2>
         <p className="text-lg md:text-xl mb-4 leading-relaxed">
-          Your home is your sanctuary, and every detail counts in creating the
-          perfect living space. Let us guide you through the best exterior
-          remodeling options to suit your needs. Once you find your ideal
-          vision, we'll take care of the entire transformation from start to
-          finish.
+          Storms can leave behind more than just visible damage—they can
+          compromise the safety, comfort, and value of your home. At{" "}
+          <span className="font-semibold">Andrea Construction Inc.</span>, we
+          specialize in restoring and strengthening homes with exterior
+          remodeling solutions tailored to your needs.
         </p>
         <p className="text-lg md:text-xl mb-4 leading-relaxed">
-          As your local remodeling experts, we don't just stop at interiors; we
-          offer comprehensive solutions from structural changes to aesthetic
-          enhancements, including additional services like siding and gutter
-          installation.
+          From roofing and siding repairs to gutters, windows, and structural
+          enhancements, our experienced team is equipped to handle every aspect
+          of storm recovery with precision and care.
         </p>
         <p className="text-lg md:text-xl mb-8 leading-relaxed">
-          Our dedicated team is here to manage your project seamlessly, ensuring
-          that every aspect of your home renovation is handled with precision
-          and care. Trust us to elevate your home with unmatched quality and
-          style.
+          When disaster strikes, you need more than quick fixes—you need a
+          trusted partner who will restore your home with unmatched quality and
+          lasting protection. Let Andrea Construction Inc. help you rebuild
+          stronger than before.
         </p>
         <a
           href="#contact"

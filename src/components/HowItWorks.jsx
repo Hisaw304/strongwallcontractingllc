@@ -6,19 +6,19 @@ const HowItWorks = () => {
     {
       number: "01",
       title: "Identify Problem Areas",
-      text: "Take a look at your home and note the areas that need attention. Whether it’s your siding, roofing, or outdoor living space, identifying the issues is the first step toward transformation.",
+      text: "Start by looking at your home and noting the areas that need attention. Whether it’s siding, roofing, windows, or outdoor spaces, identifying the issues is the first step toward transformation.",
       icon: <Home className="w-10 h-10 text-green-600" />,
     },
     {
       number: "02",
-      title: "Contact Rock Solid Construction",
-      text: "Reach out to our expert team to discuss your remodeling needs. We’ll listen carefully, provide recommendations, and create a plan tailored to your home and lifestyle.",
+      title: "Contact Andrea Construction Inc.",
+      text: "Reach out to our friendly team to discuss your remodeling needs. We’ll listen carefully, provide expert recommendations, and create a plan designed around your home and lifestyle.",
       icon: <PhoneCall className="w-10 h-10 text-green-600" />,
     },
     {
       number: "03",
-      title: "We'll Be On Our Way",
-      text: "Once you’re ready, we’ll get to work. Our skilled team will arrive promptly and ensure your remodeling project is handled with care, precision, and professionalism from start to finish.",
+      title: "We’ll Get to Work",
+      text: "Once you’re ready, our skilled professionals will be on-site promptly. We handle your project with precision, care, and craftsmanship—ensuring everything is completed to the highest standard.",
       icon: <Hammer className="w-10 h-10 text-green-600" />,
     },
   ];

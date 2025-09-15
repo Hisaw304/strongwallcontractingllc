@@ -5,42 +5,39 @@ const FeaturesSection = () => {
     {
       title: "Proximity & Convenience",
       img: "/images/proximity.webp", // 👈 put your image in public folder
-      text: `Looking for "exterior remodeling near me"? You've found the right place! 
-      Strong Wall Construction LLC is more than just local—we're an integral part of your community. 
-      Our strong presence ensures we're readily available and well-versed in the unique requirements of residents nationwide.`,
+      text: `Searching for "exterior remodeling near me"? You've found the right team! 
+      Andrea Construction Inc. is more than just local—we’re part of the community. 
+      With a strong presence nationwide, we’re always ready to serve and adapt to the unique needs of homeowners across the USA.`,
     },
     {
       title: "Local Insight",
       img: "/images/local.webp",
-      text: `As a company with deep roots, we understand the unique character and style preferences 
-      of our clients. This regional insight enables us to design remodeling projects that are precisely 
-      suited for your home and lifestyle.`,
+      text: `With years of experience, we understand the character, style, and lifestyle preferences of our clients. 
+      This insight allows us to design remodeling solutions that feel tailored and perfectly suited to your home.`,
     },
     {
       title: "Superior Craftsmanship",
       img: "/images/craftsmanship.webp",
-      text: `Craftsmanship isn't just about skill—it's fueled by passion. 
-      Our team is overflowing with enthusiasm and dedication to excellence in every remodeling project, 
-      no matter the size. Every detail is carried out with precision and care.`,
+      text: `True craftsmanship is more than skill—it’s a commitment to excellence. 
+      Our passionate team approaches every project, big or small, with precision, care, and attention to detail.`,
     },
     {
-      title: "Prempricingium-Quality Materials",
+      title: "Premium-Quality Materials",
       img: "/images/materials.webp",
-      text: `Crafting exceptional work demands the highest quality materials. 
-      We've established partnerships with leading suppliers, guaranteeing that every remodeling 
-      project uses only the best resources to bring your vision to life.`,
+      text: `Exceptional results begin with exceptional materials. 
+      At Andrea Construction Inc., we partner with trusted suppliers to ensure every remodel uses only the highest-quality resources.`,
     },
     {
-      title: "Transparent Pricing Model",
+      title: "Transparent Pricing",
       img: "/images/pricing.webp",
-      text: `Trust is foundational in our industry. Our transparent pricing model ensures 
-      no hidden costs or surprises—just honesty and integrity in every estimate.`,
+      text: `Trust is the foundation of our work. Our clear and honest pricing model means no hidden fees, 
+      no surprises—just straightforward estimates you can rely on.`,
     },
     {
       title: "Post-Service Support",
       img: "/images/support.webp",
-      text: `We don’t just remodel homes—we build lasting relationships. 
-      Through dedicated post-project support and routine follow-ups, we ensure your satisfaction long after completion.`,
+      text: `Our work doesn’t end when the project is complete. 
+      Through ongoing support and follow-ups, we make sure your investment continues to deliver satisfaction for years to come.`,
     },
   ];
 
@@ -49,12 +46,12 @@ const FeaturesSection = () => {
       <div className="container mx-auto px-6 text-center">
         {/* Heading */}
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
-          Professional Exterior Remodeling Near You
+          Why Choose Andrea Construction Inc.?
         </h2>
         <p className="text-lg text-gray-600 mb-12 max-w-3xl mx-auto">
-          Discover why Strong Wall Construction LLC is the trusted choice for
-          remodeling services across the USA. Our values, craftsmanship, and
-          commitment to quality set us apart.
+          Homeowners across the United States trust Andrea Construction Inc. for
+          professional remodeling services. Our expertise, craftsmanship, and
+          commitment to quality make us the partner you can count on.
         </p>
 
         {/* Cards Grid */}

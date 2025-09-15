@@ -10,31 +10,31 @@ const testimonials = [
     name: "Christopher West",
     role: "CEO, Fair Spares New England",
     feedback:
-      "Amazing service!! Absolutely the best to deal with. I knew nothing about remodeling, but they guided me through the entire process. I’ll keep using them!",
+      "Amazing service! Andrea Construction Inc. made the remodeling process simple and stress-free. Their team guided me at every step and delivered exactly what I needed.",
   },
   {
     name: "Sarah Johnson",
     role: "Homeowner, North Myrtle Beach",
     feedback:
-      "Strong Wall Construction LLC turned our outdated kitchen into a modern, functional space. Their craftsmanship and attention to detail are unmatched.",
+      "Our kitchen renovation exceeded every expectation. The craftsmanship, clear communication, and attention to detail from Andrea Construction Inc. were truly outstanding.",
   },
   {
     name: "David Martinez",
     role: "Property Investor",
     feedback:
-      "From start to finish, the team was professional, transparent, and easy to work with. They transformed my property beautifully and added real value.",
+      "Professional, transparent, and reliable—Andrea Construction added real value to my property with their exceptional work. I’ll definitely partner with them again.",
   },
   {
     name: "Emily Carter",
     role: "Business Owner",
     feedback:
-      "They remodeled my storefront and it looks incredible. Customers notice the difference immediately. Truly outstanding work!",
+      "They remodeled my storefront, and the transformation has been incredible. My customers notice the difference immediately. Andrea Construction Inc. is the real deal.",
   },
   {
     name: "Michael Thompson",
     role: "Homeowner",
     feedback:
-      "The team went above and beyond with our deck and porch remodel. Honest pricing, great communication, and amazing results.",
+      "Our deck and porch remodel was handled with honesty and care. The Andrea Construction team went above and beyond to deliver amazing results at a fair price.",
   },
 ];
 

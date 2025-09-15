@@ -6,7 +6,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setSubmitted(true);
-    e.target.reset(); // <-- clears all input fields
+    e.target.reset(); // clears all input fields
   };
 
   return (
@@ -18,7 +18,7 @@ const Contact = () => {
           <p className="text-lg text-gray-600">
             Get in touch with{" "}
             <span className="text-green-600 font-semibold">
-              Strong Wall Construction LLC
+              Andrea Construction Inc.
             </span>
             . We’d love to hear from you!
           </p>
@@ -62,7 +62,7 @@ const Contact = () => {
               <input
                 type="tel"
                 className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500"
-                placeholder="+1 (555) 123-4567"
+                placeholder="+1 (555) 987-6543"
               />
             </div>
 
@@ -97,23 +97,25 @@ const Contact = () => {
           <div className="bg-white p-8 rounded-2xl shadow-lg space-y-6">
             <h3 className="text-2xl font-bold mb-4">Our Office</h3>
             <p className="text-gray-700">
-              Strong Wall Construction LLC
+              Andrea Construction Inc.
               <br />
-              North Myrtle Beach, SC
+              12334 77th Place North
+              <br />
+              West Palm Beach, FL 33412
             </p>
             <p className="text-gray-700">
               <span className="font-semibold">Phone:</span> (555) 987-6543
             </p>
             <p className="text-gray-700">
               <span className="font-semibold">Email:</span>{" "}
-              info@strongwallconstruction.com
+              info@andreaconstructionservices.com
             </p>
 
             {/* Google Map Embed */}
             <div className="rounded-lg overflow-hidden shadow">
               <iframe
                 title="map"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.065152067479!2d-78.678!3d33.815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8900abc123456789%3A0x987654321!2sNorth%20Myrtle%20Beach!5e0!3m2!1sen!2sus!4v1693329349823"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3587.820204839325!2d-80.219!3d26.776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d92b123456789%3A0x987654321!2sWest%20Palm%20Beach%2C%20FL!5e0!3m2!1sen!2sus!4v1693329349823"
                 width="100%"
                 height="300"
                 allowFullScreen=""

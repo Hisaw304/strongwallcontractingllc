@@ -13,18 +13,19 @@ const CtaSection = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-6 text-center max-w-3xl">
         <h2 className="text-4xl md:text-5xl font-bold mb-6">
-          Secure Your Dream Transformation Today
+          Start Your Dream Home Transformation Today
         </h2>
         <p className="text-lg md:text-xl mb-8 leading-relaxed">
-          Ready to transform your space? Book now with{" "}
-          <span className="font-semibold">Strong Wall Construction LLC</span>{" "}
-          and start your journey toward a beautifully remodeled home. Our expert
-          team is eager to work with you, ensuring every detail of your project
-          is handled with precision and care.
+          Ready to bring your vision to life? Partner with{" "}
+          <span className="font-semibold">Andrea Construction Inc.</span> and
+          experience remodeling done with precision, reliability, and care. From
+          planning to the final touches, our expert team is here to make your
+          project seamless and stress-free.
         </p>
         <p className="text-lg md:text-xl mb-8 leading-relaxed">
-          Don’t wait to make your dream home a reality—secure your slot today
-          and let us bring your vision to life!
+          Don’t wait—secure your spot today and take the first step toward a
+          home that’s as strong, beautiful, and welcoming as you’ve always
+          imagined.
         </p>
         <a
           href="#contact"

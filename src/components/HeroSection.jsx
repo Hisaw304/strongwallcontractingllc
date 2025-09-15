@@ -1,4 +1,3 @@
-// src/components/HeroSection.jsx
 import React from "react";
 
 const HeroSection = () => {
@@ -7,7 +6,7 @@ const HeroSection = () => {
       id="hero"
       className="relative bg-gray-900 text-white h-[90vh] flex items-center"
       style={{
-        backgroundImage: "url('/hero-bg.jpg')", // 👈 your image in public/
+        backgroundImage: "url('/house10.jpg')", // 👈 your image in public/
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
@@ -21,9 +20,10 @@ const HeroSection = () => {
           Building Strong Walls, <br /> Building Stronger Trust
         </h1>
         <p className="text-lg md:text-xl mb-6 text-gray-200">
-          Strong Wall Construction LLC provides professional remodeling and
-          construction services across the United States. We bring strength,
-          precision, and reliability to every project.
+          Andrea Construction Inc. delivers professional remodeling and
+          construction services across the United States. With a commitment to
+          strength, precision, and reliability, we ensure excellence in every
+          project we take on.
         </p>
 
         {/* Buttons */}

@@ -9,15 +9,15 @@ const Navbar = () => {
     <header className="w-full">
       {/* Top Info Bar */}
       <div className="bg-yellow-500 text-black text-sm px-6 py-2 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-0 text-center sm:text-left">
-        <span>Email: strongwallcontractingllc.com</span>
-        <span>Thomas Rickman</span>
+        <span>Email: info@andreaconstructionservices.com</span>
+        <span></span>
         <span>Call: (555) 123-4567</span>
       </div>
 
       {/* Main Nav */}
       <nav className="bg-gray-900 text-white px-6 py-4 flex justify-between items-center">
         {/* Logo / Brand */}
-        <h1 className="text-xl font-bold">Strong Wall Contracting LLC</h1>
+        <h1 className="text-xl font-bold">ANDREA CONSTRUCTION INC</h1>
 
         {/* Desktop Links */}
         <div className="hidden md:flex space-x-6">
